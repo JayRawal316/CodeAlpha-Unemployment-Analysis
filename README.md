@@ -1,4 +1,4 @@
-# 📊 Unemployment Analysis in India using Python
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c4fa0cba-83d5-429a-99be-572ba1eabb8a" /># 📊 Unemployment Analysis in India using Python
 
 > **CodeAlpha Data Science Internship – Task 3**
   **Author - Rawal JayKumar NarendraKumar
@@ -27,6 +27,8 @@ The project aims to:
 ---
 
 ## 📂 Dataset
+## Dataset Source - https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
+
 
 This project uses two datasets.
 
@@ -304,7 +306,7 @@ Through this project, the following concepts were applied:
 
 ## 👨‍💻 Author
 
-**Jay Rawal**
+**Rawal JayKumar NarendraKumar**
 
 Aspiring Data Scientist
 
@@ -328,6 +330,7 @@ This project is licensed under the MIT License.
 * github - https://github.com/JayRawal316
 * LinkedIn - www.linkedin.com/in/jay-rawal-68462028b
 * Kaggle Datasets
+* Dataset Source - https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 * Python Open Source Community
 
 ---
