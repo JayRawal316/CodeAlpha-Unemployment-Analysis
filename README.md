@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c4fa0cba-83d5-429a-99be-572ba1eabb8a" /># 📊 Unemployment Analysis in India using Python
+Unemployment Analysis in India using Python
 
 > **CodeAlpha Data Science Internship – Task 3**
   **Author - Rawal JayKumar NarendraKumar
